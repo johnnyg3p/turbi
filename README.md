@@ -1,11 +1,18 @@
 # turbyCrud
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
-https://github.com/lightchpa/MongoDBPortable/releases/tag/v0.4.0.1
+Esse projeto foi criado com angular CLI e nodeJs, onde temos um servidor de API com node onde realizamos as chamadas e consultas no banco de dados.
 
-## Development server
+## requisitos
+instalar o nodejs 6.10 (https://nodejs.org/download/release/v6.10.3/node-v6.10.3-x64.msi)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+instalar o mongo DB e rodar na porta  (https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.4-signed.msi)
+
+
+## Rodando a aplicação
+
+Para rodar a aplicação digite `npm start` na pasta do projeto.
+Para iniciar o servidor node digite `node server` na pasta do projeto.
+ 
 
 ## Code scaffolding
 
